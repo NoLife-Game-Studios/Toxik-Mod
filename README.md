@@ -1,4 +1,4 @@
-# Dinkelmemes-Mod
+# Dinkelmemes Tools Mod
 Minecraft mod with lots of little gimmicks
 
 Please note:
