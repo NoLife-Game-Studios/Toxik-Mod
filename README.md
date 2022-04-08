@@ -19,8 +19,8 @@ Items:
 Blocks:
 - Red Diamond Block
 - RGB Block
-- RGB Stairs
-- RGB Slab
+- RGB Stairs          NEW!
+- RGB Slab            NEW!
 - Purple Spy
 
 Potions:
