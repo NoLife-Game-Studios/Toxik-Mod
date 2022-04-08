@@ -7,6 +7,10 @@ More Items and other stuff will be added,
 this mod is always in developement and currently in the Pre Alpha Phase
 Bugs or Glitches may be Gamebreaking.
 
+Hotkeys:
+"G" for Actions Menu
+
+
 Items:
 - Red Diamond
 - Crimson Ingot
@@ -15,6 +19,8 @@ Items:
 Blocks:
 - Red Diamond Block
 - RGB Block
+- RGB Stairs
+- RGB Slab
 - Purple Spy
 
 Potions:
