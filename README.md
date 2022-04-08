@@ -1,1 +1,1 @@
-# Dinkelmeme-s-Mod
+# Dinkelmemes-Mod
