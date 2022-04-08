@@ -2,7 +2,8 @@
 Minecraft mod with lots of little gimmicks
 
 Please note:
-More Items and other stuff will be added
+
+More Items and other stuff will be added,
 this mod is always in developement and currently in the Pre Alpha Phase
 Bugs or Glitches may be Gamebreaking.
 
