@@ -15,6 +15,7 @@ Items:
 - Red Diamond
 - Crimson Ingot
 - Flobbycar Disk
+- Rainbow Dust
 
 Blocks:
 - Red Diamond Block
