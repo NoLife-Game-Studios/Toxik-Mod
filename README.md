@@ -1,4 +1,4 @@
-# Dinkelmemes Tools Mod
+# ToxiK Mod by NoLife Studios
 Minecraft mod with lots of little gimmicks
 
 Please note:
@@ -32,3 +32,7 @@ Combat:
 - Crimson Sword (better than Netherite)
 - Crimson Pickaxe (better than Netherite)
 - Crimson Shovel (better than Netherite)
+
+credits:
+Programming and modmaking by Erik Hellak (Dinkelmeme)
+Website and Discord Server by Jonathan (Infabrot)
